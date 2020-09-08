@@ -46,3 +46,9 @@ section{
   background: pink;
   margin-bottom: 15px;
 }
+
+footer{
+  height: 150px;
+  margin-top: 10px;
+  background: blue;
+}
